@@ -1,0 +1,6 @@
+suites:
+    currency_suite:
+        namespace: Amberovsky\Time
+        psr4_prefix: Amberovsky\Time
+        spec_path: '%paths.config%/tests'
+        src: ./src
